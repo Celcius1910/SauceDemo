@@ -1,8 +1,0 @@
-{
-    "use": {
-        "headless": false,
-        "browserName": "chromium",
-        "baseURL": "https://example.com",
-        "screenshot": "only-on-failure"
-    }
-}
